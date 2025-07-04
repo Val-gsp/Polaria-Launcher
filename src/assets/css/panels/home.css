@@ -95,11 +95,13 @@
 
 .titre-tab-new {
     margin-top: 1rem;
+    margin-left: 5%; /* Aligne à gauche comme .news-list qui a 90% de largeur */
     font-size: 2rem;
     padding: 0.5rem 1rem;
-    border-radius: 2rem;
+    border-radius: 10px;
     background: var(--background-transparent);
     color: var(--color);
+    align-self: flex-start; /* Aligne à gauche dans le conteneur flex */
 }
 
 .news-list {
