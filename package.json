@@ -1,7 +1,7 @@
 {
-    "name": "Polariav1-Launcher",
-    "preductname": "Polariav1 Launcher",
-    "version": "1.0.3",
+    "name": "Polaria-Launcher",
+    "preductname": "Polaria",
+    "version": "1.0.4",
     "description": "Launcher Mincraft pour le serveur Polaria",
     "main": "src/app.js",
     "author": {
